@@ -32,8 +32,8 @@ require_once("header.php");
             <div class="text">
               <h3>Lessen</h3>
               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus non autem, nisi praesentium, earum nemo tenetur facilis alias animi. Alias voluptates similique error perferendis ad totam in consequuntur nostrum impedit. Lorem ipsum dolor sit amet consectetur adipisicing elit. A labore illum eos deserunt, dolorum, autem quidem sapiente error, rem dicta ducimus. Ad laudantium reprehenderit consequuntur minima optio culpa doloribus aspernatur!</p>
-            
             </div>  
+            <img src="img\Rooster.png" alt="picture test">
   	      </div>
           <div class="review3">
             <div class="text">

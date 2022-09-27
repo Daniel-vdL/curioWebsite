@@ -6,11 +6,11 @@
     			<img src="logos/curioPaars.png" alt="">	
     		</div>
     		<nav>
-    			<a href="index.php">Software Development</a>
-    			<a href="services.php">Lessen</a>
-                <a href="shop.php">Versnellen</a>
-    			<a href="contact.php">Blokken</a>
-				<a href="contact.php">Docenten</a>
+    			<a href="...">Software Development</a>
+    			<a href="...">Lessen</a>
+                <a href="...">Versnellen</a>
+    			<a href="...">Blokken</a>
+				<a href="...">Docenten</a>
     		</nav>
       </div>  
    	</div>

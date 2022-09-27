@@ -202,6 +202,8 @@ main .reviews{
   margin-top: 20px;
   width: 40%;
   height: 40%;
+  border: #03357C 5px solid;
+  border-radius: 20px;
 }
 
 .review2{
@@ -234,6 +236,8 @@ main .reviews{
   margin: 20px;
   width: 40%;
   height: 40%;
+  border: #03357C 5px solid;
+  border-radius: 20px;
 }
 
 .review4{
@@ -405,7 +409,7 @@ footer a:hover{
   height: 260px;
   border: #03357C 5px solid;
   border-radius: 20px;
-  
+
 }
 /* ==========================================================================
    Helper classes
